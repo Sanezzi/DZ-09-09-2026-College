@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background: #0a0a0a;
+}
+
+.container {
+  max-width: 960px;
+}
+
+h1, h2, h3 {
+  text-shadow: 0 0 8px rgba(0, 255, 0, 0.35);
+}
+
+code {
+  border-radius: 4px;
+}
+
+hr {
+  border-color: #1f5f1f;
+  margin: 32px 0;
+}
